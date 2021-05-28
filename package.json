@@ -4,7 +4,7 @@
   "description": "social network for students",
   "main": "server.js",
   "scripts": {
-    "start":"noder server" ,
+    "start":"node server" ,
     "server": "nodemon server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
